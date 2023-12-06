@@ -223,6 +223,7 @@ button, a {
 }
 
 .hero {
+  margin-top: 99px;
   min-height: 687px;
   height: 100%;
   background-image: url(../img/bg.jpg);

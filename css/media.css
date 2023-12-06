@@ -121,6 +121,10 @@
     display: block;
   }
 
+  .hero {
+    margin-top: 82px;
+  }
+
   .form__item:first-child, .form__item:nth-child(2) {
     max-width: none;
     margin-right: 0;
@@ -314,6 +318,7 @@
   }
 
   .hero {
+    margin-top: 56px;
     min-height: 469px;
     height: 469px;
     background-image: url(../img/bg-media.jpg);
