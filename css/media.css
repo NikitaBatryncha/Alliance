@@ -90,8 +90,8 @@
     flex-direction: column;
     justify-content: space-between;
     padding: 30px 20px;
-    position: absolute;
-    z-index: -11;
+    position: fixed;
+    z-index: -1000;
     top: 82px;
     right: 5px;
     width: 50%;
